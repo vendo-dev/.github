@@ -1,5 +1,5 @@
 <a href="https://getvendo.com?utm_source=vendo_github">
-  <img src="https://uploads-ssl.webflow.com/6230c485f2c32ea1b0daa438/62386b96518cdcbe111f134a_OG%20Image%20(2).png" style="max-height:400px" />
+  <img src="https://raw.githubusercontent.com/spree/spree-dev-docs/master/.gitbook/assets/spree_vendo_user_doc_2.png" />
 </a>
 
 [Vendo](https://getvendo.com?utm_source=vendo_github) is a great fit for marketplaces of all sizes - either with own fulfillment and multiple warehouses or in a dropshipping model. Vendo **automates everything** from **vendor onboarding**, accepting buyer **payments in over 135 currencies**, to supplier **payouts in 50 countries**. 
